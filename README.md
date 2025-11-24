@@ -38,9 +38,9 @@ The inflection point where cloud computing went from experimental to inevitable.
 
 ## Why These Repositories Exist
 
-Fifteen years have passed since the IBM days ended, and in the relentless pace of technology, that's nearly a century. The platforms that once defined enterprise infrastructure—Siebel, Genesys, Tivoli, SmartCloud—have given way to cloud-native architectures and containerization. The world has moved on.
+Fifteen years have passed since the IBM days ended, and in the relentless pace of technology, that's nearly a century. The platforms that dominated that era—proprietary, specialized, vendor-locked—have given way to cloud-native architectures and open standards. The world has moved on.
 
-Yet looking back, the *principles* learned during those years remain surprisingly relevant. Understanding infrastructure coordination, service management, IT governance, capacity planning—these concepts transcended the specific technologies. The frameworks studied apply equally to modern cloud operations, just implemented through different tools.
+Yet looking back, the *principles* learned during those years remain surprisingly relevant. Systems thinking, governance, operations—concepts that transcended the specific technologies. These frameworks apply equally to modern cloud operations, just implemented through different tools.
 
 This series is shared in gratitude:
 - To the companies that invested in growth
@@ -57,24 +57,6 @@ If you were there during those years—if you remember the regional meetings, th
 If you're mentioned in any of these volumes—if you were a manager, a colleague, a teammate, or a customer—thank you. These repositories exist because of your mentorship, your collaboration, and your willingness to share knowledge.
 
 This is not a résumé. It's a small tribute to the people and the technological moments that made these years valuable.
-
----
-
-## Repository Structure
-
-```
-my_professional_journey/
-├── README.md                                              # This file
-├── LICENSE                                               # MIT License
-│
-├── Vol-1_The-Proprietary-Era-1999-to-2006/              # (Separate repository)
-│   └── https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006
-│
-├── Vol-2_The-Cloud-Transition-2006-to-2012/             # (Separate repository)
-│   └── https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012
-│
-└── Vol-3_The-Cloud-Native-Era-2012-onwards/             # (Coming soon)
-```
 
 ---
 
