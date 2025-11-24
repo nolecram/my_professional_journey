@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+Thumbs.db
+desktop.ini
+
+# Node (if applicable)
+node_modules/
+npm-debug.log
+
+# Python (if applicable)
+__pycache__/
+*.py[cod]
+*$py.class
