@@ -24,7 +24,7 @@ An era when proprietary systems felt permanent. A time capsule of Rome-based IT 
 
 Six years with IBM spanning three continents: Rome, Dubai, and Melbourne.
 
-The inflection point where cloud computing went from experimental to inevitable. From proprietary infrastructure (Tivoli, SmartCloud) to emerging cloud platforms (OpenStack). A grateful tribute to the mentorship, collaboration, and knowledge-sharing that shaped those years.
+The inflection point where cloud computing went from experimental to inevitable. A grateful tribute to the mentorship, collaboration, and knowledge-sharing that shaped those years.
 
 **[Explore Vol. 2 →](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012)**
 
