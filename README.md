@@ -14,7 +14,7 @@ These repositories aren't a resume or portfolio. They're a time capsule. A retro
 
 Foundation-building in Rome across four companies: Atos, TeleAp, RSI Sistemi, and Avaya.
 
-An era when proprietary systems felt permanent. When bringing different vendor platforms together actually took coordination, discipline, and care. A time capsule of Rome-based IT in the late 1990s and early 2000s.
+An era when proprietary systems felt permanent. A time capsule of Rome-based IT in the late 1990s and early 2000s.
 
 **[Explore Vol. 1 →](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)**
 
@@ -52,18 +52,6 @@ If you were there during those years—if you remember the regional meetings, th
 
 ---
 
-## The Arc Across Volumes
-
-| Period | Location | Company | Technologies | Focus |
-|--------|----------|---------|---------------|-------|
-| 1999–2000 | Rome | Atos | Proprietary systems | Entry-level infrastructure |
-| 2000–2003 | Rome | TeleAp | CRM, telecommunications | Systems integration |
-| 2003 | Rome | RSI Sistemi | Enterprise solutions | Architecture |
-| 2003–2006 | Rome | Avaya | Unified communications | Solutions architect |
-| 2006–2012 | Rome → Dubai → Melbourne | IBM | Tivoli → OpenStack | Cloud transition |
-
----
-
 ## A Note to Those Mentioned
 
 If you're mentioned in any of these volumes—if you were a manager, a colleague, a teammate, or a customer—thank you. These repositories exist because of your mentorship, your collaboration, and your willingness to share knowledge.
@@ -92,11 +80,11 @@ my_professional_journey/
 
 ## Getting Started
 
-Start with [Vol. 1: The Proprietary Era](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) if you want the full story from the beginning. 
+[Vol. 1: The Proprietary Era](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) — Rome, 1999–2006
 
-Jump to [Vol. 2: The Cloud Transition](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) if you're interested in the cloud computing inflection point.
+[Vol. 2: The Cloud Transition](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) — Rome, Dubai, Melbourne, 2006–2012
 
-Read all volumes in order to see how technology evolved and which principles proved durable.
+[Vol. 3: The Cloud-Native Era](TBD) — Coming soon
 
 ---
 
