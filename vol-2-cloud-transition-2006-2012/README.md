@@ -1,4 +1,4 @@
-# My Professional Journey: Vol. 2 — The Cloud Transition (2006-2012)
+# My Professional Journey: Vol. 2 – The Cloud Transition (2006–2012)
 
 ## About This Section
 
@@ -83,7 +83,7 @@ This section documents professional activities, technical publications, and cert
 
 ### Timeline
 
-- **[Comprehensive Timeline](./TIMELINE.md)** - October 2006 - April 2013
+- **[Comprehensive Timeline](./TIMELINE.md)** - October 2006 – April 2013
   - Chronological documentation of all professional activities, certifications, courses, and publications with yearly breakdowns and statistics.
 
 ### Blog Posts
@@ -176,11 +176,19 @@ The `assets` folder is organized into subdirectories for better organization:
 **Certifications** (`assets/files/certifications/`)
 - `master-itgov-final-thesis.pdf` - Master in IT Governance final thesis document
 
-## About This Section
+## Summary
 
-This collection spans a six-year journey across three continents (2006-2012)—Rome, Dubai, and Melbourne—where on-premise infrastructure expertise evolved through the cloud computing transition at IBM.
+This collection spans a six-year journey across three continents (2006–2012)—Rome, Dubai, and Melbourne—where on-premise infrastructure expertise evolved through the cloud computing transition at IBM.
 
 This archive honors the people who made those years meaningful—managers who invested time, colleagues who shared knowledge, customers who trusted expertise. It's a tribute to IBM's culture of continuous learning and the global teams that made this period foundational.
+
+---
+
+## Next Volume
+
+**[Vol. 3 – The Cloud-Native Era (2012–Onwards)](TBD)**
+
+*Coming soon.*
 
 ---
 
@@ -188,8 +196,12 @@ This archive honors the people who made those years meaningful—managers who in
 
 **[Vol. 1 – The Proprietary Era (1999–2006)](../vol-1-proprietary-era-1999-2006/README.md)**
 
-The professional journey begins with foundation-building years in Rome (1999-2006) across four companies (Atos, TeleAp, RSI Sistemi, Avaya), where entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions.
+The professional journey begins with foundation-building years in Rome (1999–2006) across four companies (Atos, TeleAp, RSI Sistemi, Avaya), where entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions.
 
 ---
 
 *Blog posts originally published on Thoughts on Cloud - IBM Cloud Products and Services platform. Technical documentation published through IBM Redbooks. All content reflects the collaborative spirit and knowledge-sharing culture that defined that chapter.*
+
+*Section created: November 23, 2025*  
+*Professional journey period: Vol. 2 (2006–2012) – The Cloud Transition (Rome, Dubai, Melbourne)*  
+*Purpose: Time capsule and tribute to formative professional years*

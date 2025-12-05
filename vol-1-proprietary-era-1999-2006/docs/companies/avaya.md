@@ -135,9 +135,3 @@ By contrast, companies that emerged in the post-2005 era without legacy hardware
 ---
 
 *Avaya tenure documentation during formative years professional journey (June 2003 – August 2006)*
-
-[To be added - notable colleagues, team dynamics, and company culture observations]
-
----
-
-*Avaya tenure documentation during formative years professional journey*

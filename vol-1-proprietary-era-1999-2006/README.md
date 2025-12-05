@@ -63,7 +63,7 @@ The journey represents more than credentials and achievements; it embodies the m
 
 ### [Timeline](TIMELINE.md)
 
-- [Comprehensive Timeline](TIMELINE.md) - 1999 - 2006
+- **[Comprehensive Timeline](TIMELINE.md)** - 1999–2006
   - Chronological documentation of all professional activities, certifications, courses, and milestones with yearly breakdowns and statistics.
 
 ### Companies
@@ -105,9 +105,9 @@ The `assets` folder is organized into subdirectories for better organization:
 
 ---
 
-## About This Section
+## Summary
 
-This collection spans a seven-year journey in Rome (1999-2006) across four companies. Entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions and telecommunications.
+This collection spans a seven-year journey in Rome (1999–2006) across four companies. Entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions and telecommunications.
 
 This archive honors the people who made those years valuable: managers who invested time, colleagues who shared knowledge, customers who trusted expertise. It's a tribute to the organizations and teams that made this foundation possible.
 
@@ -122,5 +122,5 @@ The professional journey continues beyond 2006 with six transformative years spa
 ---
 
 *Section created: November 23, 2025*  
-*Professional journey period: Vol. 1 (1999-2006) – The Proprietary Era (Rome, Italy)*  
+*Professional journey period: Vol. 1 (1999–2006) – The Proprietary Era (Rome, Italy)*  
 *Purpose: Time capsule and tribute to formative professional years*
