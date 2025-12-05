@@ -10,23 +10,23 @@ These repositories aren't a resume or portfolio. They're a time capsule. A retro
 
 ## The Volumes
 
-### [Volume 1: The Proprietary Era (1999–2006)](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)
+### [Volume 1: The Proprietary Era (1999–2006)](vol-1-proprietary-era-1999-2006/README.md)
 
 Foundation-building in Rome across four companies: Atos, TeleAp, RSI Sistemi, and Avaya.
 
 An era when proprietary systems felt permanent. A time capsule of Rome-based IT in the late 1990s and early 2000s.
 
-**[Explore Vol. 1 →](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006)**
+**[Explore Vol. 1 →](vol-1-proprietary-era-1999-2006/README.md)**
 
 ---
 
-### [Volume 2: The Cloud Transition (2006–2012)](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012)
+### [Volume 2: The Cloud Transition (2006–2012)](vol-2-cloud-transition-2006-2012/README.md)
 
 Six years with IBM spanning three continents: Rome, Dubai, and Melbourne.
 
 The inflection point where cloud computing went from experimental to inevitable. A grateful tribute to the mentorship, collaboration, and knowledge-sharing that shaped those years.
 
-**[Explore Vol. 2 →](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012)**
+**[Explore Vol. 2 →](vol-2-cloud-transition-2006-2012/README.md)**
 
 ---
 
@@ -62,9 +62,9 @@ This is not a résumé. It's a small tribute to the people and the technological
 
 ## Getting Started
 
-[Vol. 1: The Proprietary Era](https://github.com/nolecram/my_professional_journey_Vol-1_The-Proprietary-Era-1999-to-2006) — Rome, 1999–2006
+[Vol. 1: The Proprietary Era](vol-1-proprietary-era-1999-2006/README.md) — Rome, 1999–2006
 
-[Vol. 2: The Cloud Transition](https://github.com/nolecram/my_professional_journey_Vol-2_The-Cloud-Transition-2006-to-2012) — Rome, Dubai, Melbourne, 2006–2012
+[Vol. 2: The Cloud Transition](vol-2-cloud-transition-2006-2012/README.md) — Rome, Dubai, Melbourne, 2006–2012
 
 [Vol. 3: The Cloud-Native Era](TBD) — Coming soon
 

@@ -1,0 +1,195 @@
+# My Professional Journey: Vol. 2 — The Cloud Transition (2006-2012)
+
+## About This Section
+
+This is **Volume 2** in a multi-part documentation of a professional
+journey spanning from 1999 to present. Each volume captures a distinct
+technological era and the principles that transcended it:
+
+- **Vol. 1 – The Proprietary Era (1999–2006)**: [The Proprietary Era](../vol-1-proprietary-era-1999-2006/README.md) - Foundation-building in proprietary systems (Rome, Italy)
+- **Vol. 2 – The Cloud Transition (2006–2012)** (This section) - International growth and cloud computing emergence (Rome, Dubai, Melbourne)
+- **Vol. 3 – The Cloud-Native Era (2012–onward)**: Coming soon
+
+---
+
+## Why This Section
+
+Fifteen years have passed since those IBM days ended, and in the relentless pace of technology, that's nearly a century. The proprietary platforms that once defined enterprise infrastructure—Tivoli, SmartCloud, the certifications and frameworks we built our careers around—have given way to open standards, cloud-native architectures, and containerization. The world has moved on, and yet.
+
+### The Technical Context of That Era
+
+When this journey began in 2006-2012, enterprise IT operated in a fundamentally different landscape. On-premise infrastructure and proprietary software dominated: systems were managed through vendor-specific tools, virtualization was still finding its footing with proprietary hypervisors, and networking was largely locked into closed vendor ecosystems. The transition to cloud computing was just beginning—debated, experimental, not yet inevitable. Open-source was gaining momentum, but proprietary solutions still controlled enterprise operations.
+
+Today, that world has transformed almost completely. Microservices, Kubernetes, serverless computing, and everything-as-a-service have become standard practice. Open-source has won decisively across infrastructure, platforms, and tools. APIs connect everything. Artificial intelligence now shapes every architectural decision. The cloud is no longer a novelty but the default assumption.
+
+Yet looking back, the *principles* learned during those Tivoli and System Management years remain surprisingly relevant. Understanding service management, IT governance, capacity planning, integration patterns, and operational excellence—these concepts transcended the specific technologies. The frameworks we studied for enterprise IT infrastructure apply equally to modern cloud operations, just implemented through Kubernetes and containerization rather than proprietary hypervisors. What changed was the *how*, not fundamentally the *why*.
+
+This section is a walk down memory lane into a specific technological moment—one where proprietary software and on-premise infrastructure still felt permanent, where the cloud revolution was unfolding in real time, and where the transition from tightly-coupled systems to distributed architectures was just beginning. It captures the gratitude for learning those principles in an era before they became implicit assumptions.
+
+If you were there during those Tivoli and System Management years—if you remember the EMEA regional meetings, the OpenStack community enthusiasm, the shift from on-premise to cloud—then perhaps this is a welcome splash back into that era. You'll recognize the concepts even though the technologies evolved. This isn't a résumé or a portfolio. It's a **thank you note** to a company, a team, and a time that proved foundational. IBM navigated its own challenges in recent years, struggling to adapt as quickly as the market demanded, but the education and mentorship provided during this period remains enduring.
+
+This is shared in gratitude for that transformative journey, and in recognition that even as technology transforms completely, the lessons learned during those years still echo forward.
+
+---
+
+## Introduction
+
+This section chronicles a six-year professional journey with IBM spanning 2006 to 2012—a period of extraordinary growth, learning, and international experience across three continents. IBM provided exceptional opportunities for continuous skill development and professional advancement, enabling a career path that extended from Rome, Italy to Dubai, UAE, and ultimately to Melbourne, Australia.
+
+The journey represents more than certifications and technical achievements; it embodies the invaluable mentorship, collaboration, and knowledge-sharing that defined IBM's culture. Working alongside talented colleagues across Europe, the Middle East, Africa, and Asia-Pacific regions, and engaging with diverse clients worldwide, shaped both technical perspective and professional understanding in ways that proved timeless, even as the technologies themselves evolved beyond recognition.
+
+IBM's commitment to education extended beyond internal training, supporting academic pursuits through partnerships with institutions like Università degli Studi Roma Tre for advanced studies in IT Governance. This documentation serves as grateful acknowledgment of that investment—35 internal courses, 23 professional certifications, 4 external industry certifications, a Master's degree through university collaboration, technical publications, and countless learning experiences. Each certification earned, each course completed, and each project delivered represents the support of managers who encouraged growth, colleagues who shared knowledge, and customers who trusted expertise.
+
+To the mentors, teammates, and clients encountered throughout this international journey: your guidance, patience, and collaboration made this progression possible. This section is a tribute to those experiences and the people who made them meaningful.
+
+*Professional growth and IBM's technology evolution walking side by side—from proprietary infrastructure to cloud computing*
+
+---
+
+This section documents professional activities, technical publications, and certification achievements from IBM enterprise infrastructure and cloud computing initiatives during 2006-2012.
+
+<div align="center">
+
+![IBM Professional Certifications Overview](./assets/images/certifications/ibm-professional-certifications-overview.png)
+
+*IBM: A legacy of transformation and evolution*
+
+</div>
+
+---
+
+<div align="center">
+
+### Colleagues and Collaborations
+
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="./assets/images/colleagues/ibm-colleagues-photo-1.jpg" alt="IBM Colleagues" width="90%">
+</td>
+<td width="50%" align="center">
+<img src="./assets/images/colleagues/ibm-colleagues-photo-2.jpg" alt="IBM Team Collaboration" width="90%">
+</td>
+</tr>
+</table>
+
+*The heart of the IBM journey—exceptional colleagues and collaborative teams across three continents*
+
+</div>
+
+---
+
+## Contents
+
+### Timeline
+
+- **[Comprehensive Timeline](./TIMELINE.md)** - October 2006 - April 2013
+  - Chronological documentation of all professional activities, certifications, courses, and publications with yearly breakdowns and statistics.
+
+### Blog Posts
+
+- **[OpenStack release 'Folsom', first thoughts](./docs/blog-posts/openstack-folsom.md)** - October 24, 2012
+  - Author: Marco Celon
+  - A comprehensive overview of the OpenStack Folsom release, including new projects (Quantum and Cinder), architectural changes, and IBM's contributions to the project.
+
+- **[Equilibrium Project: LBaaS (Load Balancer as a Service) in OpenStack](./docs/blog-posts/equilibrium-lbaas.md)** - November 21, 2012
+  - Author: Marco Celon
+  - An overview of the Load Balancer as a Service (LBaaS) project for OpenStack, covering service architecture, driver support, and integration with Quantum.
+
+- **[High Availability in the Cloud: An OpenStack Approach](./docs/blog-posts/high-availability-cloud.md)** - April 2, 2013
+  - Author: Marco Celon
+  - An exploration of high availability solutions in OpenStack, covering platform services, Pacemaker/DRBD integration, and enterprise adoption considerations.
+
+### IBM Redbooks
+
+- **[Integrating Tivoli Products](./docs/publications/redbook-integrating-tivoli-products.md)** - December 10, 2009
+  - Authors: Budi Darmawan, Andre Jenie, Christina L. Grimes, Christopher Frost, Giorgio Sommariva, Guilherme Steinberger Elias, Hossam A. Kalory, Hyun Kuk Moon, Jim Popovitch, Karim Badr, Marco Celon, Piotr A. Boetzel, Rodrigo Carvalho Giometti, Roger Turner
+  - A comprehensive guide on integrating IBM Tivoli system management products for seamless interoperability across IT operational scenarios.
+
+### Academic Collaboration
+
+- **[IBM and Roma Tre University - Master in IT Governance](./docs/professional-development/master-it-governance.md)** - 2009-2011
+  - Academic-industry partnership between IBM Italia, Formit Servizi, and Università degli Studi Roma Tre
+  - Master di II livello in Governo dei Sistemi Informativi (IT Governance: Development, Management, and Monitoring)
+  - Completed April 15, 2011, integrating academic rigor with IBM's enterprise IT governance expertise
+
+### Professional Development & Certifications
+
+- **[IBM IT Specialist Profession Certification](./docs/certifications/ibm-it-specialist-profession.md)** - December 14, 2009
+  - Documentation of IBM IT Specialist Profession and The Open Group Master Certified IT Specialist dual certification, representing enterprise-level professional credentials during the late 2000s.
+
+- **[IBM Certification Program](./docs/certifications/ibm-certification-program.md)** - April 2008 - February 2013
+  - Documentation of 11 IBM Professional Certifications spanning Tivoli software, cloud infrastructure, and strategic technologies.
+
+- **[IBM Technical Sales Professional Certificates](./docs/certifications/technical-sales-certificates.md)** - February 2008 - March 2012
+  - Record of 12 IBM Technical Sales Professional certifications across Tivoli, Information Management, Lotus, and Industry Solutions product lines.
+
+- **[IBM Internal Professional Development Courses](./docs/professional-development/internal-courses.md)** - October 2006 - March 2013
+  - Record of 35 IBM Internal Professional Development Courses covering leadership, infrastructure, cloud technologies, security, and business skills.
+
+- **[IBM Other Professional Activities and Certifications](./docs/certifications/other-professional-activities.md)** - October 2006 - November 2009
+  - Documentation of external professional certifications and industry participation, including EXIN, ITIL v3, ISO/IEC 20000, Check Point security, and iSMF conference engagement.
+
+## Assets
+
+The `assets` folder is organized into subdirectories for better organization:
+
+### Images
+
+**Certifications** (`assets/images/certifications/`)
+- `ibm-professional-certifications-overview.png` - Professional certifications overview
+- `ibm-certification-program-logos.png` - IBM Certification Program logos
+- `ibm-it-specialist-profession-cert.jpg` - IBM IT Specialist Profession and Open Group Master IT Specialist certificates
+- `ibm-internal-certs-page1.png` - IBM Internal Training Certificates (Page 1)
+- `ibm-internal-certs-page2.png` - IBM Internal Training Certificates (Page 2)
+- `ibm-internal-certs-page3.png` - IBM Internal Training Certificates (Page 3)
+- `ibm-other-professional-activities.png` - External professional certifications and activities (EXIN, ITIL, ISO/IEC 20000, Check Point, iSMF)
+
+**Colleagues** (`assets/images/colleagues/`)
+- `ibm-colleagues-photo-1.jpg` - IBM colleagues and team collaboration
+- `ibm-colleagues-photo-2.jpg` - IBM team members across international locations
+- `marco-celon-photo.jpg` - Author photo
+- `roma-tre-program-participants.jpg` - Master in IT Governance program participants and cohort
+
+**Architecture** (`assets/images/architecture/`)
+- `openstack-folsom-architecture.png` - OpenStack Folsom architecture diagram
+- `openstack-ha-architecture.jpg` - OpenStack HA architecture diagram
+- `openstack-lbaas-architecture.jpg` - OpenStack LBaaS architecture diagram
+
+**Logos** (`assets/images/logos/`)
+- `roma-tre-university-logo.png` - Università degli Studi Roma Tre logo
+- `roma-tre-itgov-logo.jpg` - Master in IT Governance program logo
+- `roma-tre-favicon.png` - Roma Tre University digital identity
+- `ibm-software-logo.png` - IBM Software logo
+- `thoughts-on-cloud-banner.png` - Thoughts on Cloud header image
+- `ibm-redbooks-banner.jpg` - IBM Redbooks header image
+
+**Other** (`assets/images/`)
+- `ibm-employment-timeline.png` - IBM employment history across three regions (Italy, UAE, Australia)
+- `master-itgov-certificate.png` - Master in IT Governance certificate (April 15, 2011)
+
+### Files
+
+**Publications** (`assets/files/publications/`)
+- `integrating-tivoli-products.pdf` - IBM Redbook: Integrating Tivoli Products (SG247757)
+
+**Certifications** (`assets/files/certifications/`)
+- `master-itgov-final-thesis.pdf` - Master in IT Governance final thesis document
+
+## About This Section
+
+This collection spans a six-year journey across three continents (2006-2012)—Rome, Dubai, and Melbourne—where on-premise infrastructure expertise evolved through the cloud computing transition at IBM.
+
+This archive honors the people who made those years meaningful—managers who invested time, colleagues who shared knowledge, customers who trusted expertise. It's a tribute to IBM's culture of continuous learning and the global teams that made this period foundational.
+
+---
+
+## Previous Volume
+
+**[Vol. 1 – The Proprietary Era (1999–2006)](../vol-1-proprietary-era-1999-2006/README.md)**
+
+The professional journey begins with foundation-building years in Rome (1999-2006) across four companies (Atos, TeleAp, RSI Sistemi, Avaya), where entry-level technical work in systems integration evolved into increasing responsibility in enterprise solutions.
+
+---
+
+*Blog posts originally published on Thoughts on Cloud - IBM Cloud Products and Services platform. Technical documentation published through IBM Redbooks. All content reflects the collaborative spirit and knowledge-sharing culture that defined that chapter.*
