@@ -30,9 +30,19 @@ The inflection point where cloud computing went from experimental to inevitable.
 
 ---
 
-### [Volume 3: The Cloud-Native Era (2012–Onwards)](TBD)
+### [Volume 3: The Cloud-Native Transformation (2012–2019)](vol-3-cloud-native-transformation-2012-2019/README.md)
 
-*Coming soon.*
+The era of standardization. The shift from virtual machines to containers, the victory of open source infrastructure, and the rise of cloud-native architectures.
+
+**[Explore Vol. 3 →](vol-3-cloud-native-transformation-2012-2019/README.md)**
+
+---
+
+### [Volume 4: Software-Defined Everything & AI (2019–Present)](vol-4-software-defined-ai-2019-present/README.md)
+
+The modern frontier. Platform engineering, extreme abstraction, and the integration of Artificial Intelligence into the fabric of operations.
+
+**[Explore Vol. 4 →](vol-4-software-defined-ai-2019-present/README.md)**
 
 ---
 
@@ -66,7 +76,9 @@ This is not a résumé. It's a small tribute to the people and the technological
 
 [Vol. 2: The Cloud Transition](vol-2-cloud-transition-2006-2012/README.md) — Rome, Dubai, Melbourne, 2006–2012
 
-[Vol. 3: The Cloud-Native Era](TBD) — Coming soon
+[Vol. 3: The Cloud-Native Transformation](vol-3-cloud-native-transformation-2012-2019/README.md) — 2012–2019
+
+[Vol. 4: Software-Defined Everything & AI](vol-4-software-defined-ai-2019-present/README.md) — 2019–Present
 
 ---
 

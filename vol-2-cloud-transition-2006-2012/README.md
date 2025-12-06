@@ -8,7 +8,8 @@ technological era and the principles that transcended it:
 
 - **Vol. 1 – The Proprietary Era (1999–2006)**: [The Proprietary Era](../vol-1-proprietary-era-1999-2006/README.md) - Foundation-building in proprietary systems (Rome, Italy)
 - **Vol. 2 – The Cloud Transition (2006–2012)** (This section) - International growth and cloud computing emergence (Rome, Dubai, Melbourne)
-- **Vol. 3 – The Cloud-Native Era (2012–onward)**: Coming soon
+- **Vol. 3 – The Cloud-Native Transformation (2012–2019)**: [The Cloud-Native Transformation](../vol-3-cloud-native-transformation-2012-2019/README.md)
+- **Vol. 4 – Software-Defined Everything & AI (2019–Present)**: [Software-Defined Everything & AI](../vol-4-software-defined-ai-2019-present/README.md)
 
 ---
 
@@ -186,9 +187,9 @@ This archive honors the people who made those years meaningful—managers who in
 
 ## Next Volume
 
-**[Vol. 3 – The Cloud-Native Era (2012–Onwards)](TBD)**
+**[Vol. 3 – The Cloud-Native Transformation (2012–2019)](../vol-3-cloud-native-transformation-2012-2019/README.md)**
 
-*Coming soon.*
+The era of standardization. The shift from virtual machines to containers, the victory of open source infrastructure, and the rise of cloud-native architectures.
 
 ---
 

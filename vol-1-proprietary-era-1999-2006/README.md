@@ -6,6 +6,8 @@ This is **Volume 1** in a multi-part documentation of a professional journey spa
 
 - **Vol. 1 – The Proprietary Era (1999–2006)** (This section): Foundation-building in proprietary systems (Atos, TeleAp, RSI Sistemi, Avaya)
 - **Vol. 2 – The Cloud Transition (2006–2012)**: [The Cloud Transition](../vol-2-cloud-transition-2006-2012/README.md) - International growth and cloud computing emergence
+- **Vol. 3 – The Cloud-Native Transformation (2012–2019)**: [The Cloud-Native Transformation](../vol-3-cloud-native-transformation-2012-2019/README.md)
+- **Vol. 4 – Software-Defined Everything & AI (2019–Present)**: [Software-Defined Everything & AI](../vol-4-software-defined-ai-2019-present/README.md)
 
 ---
 
